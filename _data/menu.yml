@@ -1,0 +1,15 @@
+- text: Facilities
+  url: facilities
+- text: Speakers
+  url: speakers
+- text: Programme
+  url: programme
+- text: Registration
+  url: registration
+- text: jDPG
+  url: http://www.dpg-physik.de/dpg/gliederung/junge/index.html
+- text: AISF
+  url: http://www.ai-sf.it
+- text: IAPS
+  url: http://www.iaps.info
+  

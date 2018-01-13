@@ -1,7 +1,7 @@
 # Site settings
 # title: "Acr Ev"
 # description: "nome evento completo"
-url: "http://ai-sf.it/gipe" # the base hostname & protocol for your site
+#url: "/" # the base hostname & protocol for your site
 destination: ../site/
 locale: "it"
 
@@ -22,6 +22,6 @@ collections:
     output: true
     permalink: /:categories/:year/:month/:day/:title/
 
-gems:
- - jekyll-redirect-from
- - jekyll-sitemap
+# gems:
+#  - jekyll-redirect-from
+#  - jekyll-sitemap

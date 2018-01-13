@@ -1,0 +1,102 @@
+﻿info: "The Italian Association of Physics Students (AISF) and the junge Deutschen Physikalische Gesellschaft (jDPG) will join for the first year of the German Italian Physics Exchange in Hamburg on November 2017.
+</p><p>
+During the Programme, 40 students will be able to visit some cutting-edge facilities including the Nexperia's Front End Manufacturing, DESY, the labs of the Max-Planck-Institute for the structure and dynamics of matter, the Center for Free-Electron Laser Science and the Institute of Laserphysics.
+Moreover, the participants will be given talks by local professors, researchers and managers.
+</p><p>"
+
+last_update: 05/06/17
+
+schedule:
+  - day: Wednesday
+    date: "01/11"
+    short_descr: Arrival and welcome lecture
+    activity:
+      - hour: "13:00 - 15:30"
+        descr: "Check-in and arrival at the Hotel"
+      - hour: "16:00 - 17:00"
+        descr: "Welcome Reception"
+      - hour: "17:30 - 18:30"
+        descr: "Guest Lecture by Prof. Daniela Pfannkuche"
+      - hour: "19:00-22:00"
+        descr: "Welcome dinner"
+  - day: Thursday
+    date: "02/11"
+    short_descr: Nexperia, student talks, SCM's and STM's
+    activity:
+      - hour: "8:00 - 9:00"
+        descr: "Breakfast"
+      - hour: "9:00 - 12:00"
+        descr: "Nexperia's Front End Manufacturing facility"
+      - hour: "12:00 - 13:00"
+        descr: "Lunch at Nexperia"
+      - hour: "14:00 - 15:00"
+        descr: "Guest lecture on astrophysics"
+      - hour: "15:00 - 17:00"
+        descr: "Participants Lectures"
+      - hour: "17:00 - 17.30"
+        descr: "Coffee break"
+      - hour: "17:30 - 19:00"
+        descr: "Guest Lecture and lab Tour, Prof. Wiesendanger"
+      - hour: "19:00 - 22:00"
+        descr: "German Dinner evening"
+  - day: Friday
+    date: "03/11"
+    short_descr: Workshops and DESY
+    activity:
+      - hour: "8:00-9:00"
+        descr: "Breakfast"
+      - hour: "9:00 - 11:00"
+        descr: "Workshop and Discussion with leading manager from the consulting industry"
+      - hour: "11:00 - 13:00"
+        descr: "Workshop and Discussion with leading manager from a patent attorney"
+      - hour: "13:00 - 14:00"
+        descr: "Lunch Break and drive to DESY"
+      - hour: "15:00 - 17:00"
+        descr: "Welcome reception at DESY and an overview lecture on the physics at DESY"
+      - hour: "17:00 - 19:00"
+        descr: " Lecture and Lab tour on DESY's Photon Science Department"
+      - hour: "19:00 - 22:00"
+        descr: "Italian evening"
+  - day: Saturday
+    date: "04/11"
+    short_descr: Max-Planck-Instutute, CFELS, IoL
+    activity:
+      - hour: "8:00 - 9:00"
+        descr: "Breakfast"
+      - hour: "10:00 - 13:00"
+        descr: "Lectures and Lab Tour of the Max-Planck-Institute and the Center for Free-Electron Laser Science"
+      - hour: "13:00 - 14:00"
+        descr: "Lunch Break"
+      - hour: "14:00 - 16:00"
+        descr: "Student Talks"
+      - hour: "16:00 - 19:00"
+        descr: "Visit to the Institute of Laserpyhsics and exclusive excursion to the Flash-Laserbeam"
+      - hour: "20:00 - 23:00"
+        descr: "Free Night"
+  - day: Sunday
+    date: "05/11"
+    short_descr: Student Talks and Closing Ceremony
+    activity:
+     - hour: "8:00 - 9:00"
+       descr: "Breakfast"
+     - hour: "10:00 - 11:00"
+       descr: "Student Talks"
+     - hour: "11:00 - 11:30"
+       descr: "Coffee Break Break"
+     - hour: "11:30 - 13:00"
+       descr: "Student Talks"
+     - hour: "13:00 - 14:00"
+       descr: "Closing Ceremony and Departure"
+     - hour: "14:00 - 16:00"
+       descr: "Optional Guided Tour through Hamburg"
+
+
+few_info:
+  info: ""
+  specs:
+    - text: "In order to enroll to the event you must be an IAPS member, in particular member of the Italian Association of Physics Students (AISF) or a member of jDPG."
+      url: "#!"
+    - text: "We expect to select 40 students, of whom approximately half will be Italian, half German."
+      url: "#!"
+    - text: "Please note that unfortunately we are not able to provide scholarships and/or bursaries for any students at this time."
+      url: "#!"

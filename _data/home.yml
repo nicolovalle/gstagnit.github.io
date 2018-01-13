@@ -1,0 +1,29 @@
+banner: img/banner.png
+
+dpg_logo: img/dpg_logo.png
+
+who: "40 students, half from the Italian Association of Physics Students (AISF), half from the junge Deutschen Physikalische Gesellschaft (jDPG)."
+
+when: "From the 1st to the 5th of November 2017."
+
+where: "The first year of the GIPE will be held by the jDPG in Hamburg, Germany."
+
+slideshow:
+  - img: img/nexperia.JPG
+    alt: Nexperia
+    title: Nexperia
+    text: 
+  - img: img/desy.jpg
+    alt: DESY
+    title: DESY
+    text: DESY's Photon Science department
+  - img: img/cfel.jpg
+    alt: MPSD & CFEL
+    title: MPSD & CFEL
+    text: Max Planck Institute for the Structure and Dynamics of Matter and the Centre for Free-Electron Laser Science
+  - img: img/ilp.jpg
+    alt: ILP
+    title: ILP
+    text: Institute of Laserphysics
+
+paragraph: "The Italian Association of Physics Students (AISF) and the junge Deutschen Physikalische Gesellschaft (jDPG) will join for the first year of the German Italian Physics Exchange in Hamburg on November 2017. The event is organized and sponsored by the German Physical Society (DPG)."
