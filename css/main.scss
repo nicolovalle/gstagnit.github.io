@@ -37,6 +37,12 @@ $content-width:    800px;
 $on-palm:          600px;
 $on-laptop:        800px;
 
+#box {
+  font-family: Helvetica, Arial, sans-serif;
+  color: {{ site.data.generic.color1 }};
+  text-align: center;
+}
+
 
 
 // Using media queries with like this:

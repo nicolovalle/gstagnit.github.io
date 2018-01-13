@@ -4,17 +4,17 @@ descr: The Associazione Italiana Studenti di Fisica (AISF) gathers together most
 contact:
   - name: AISF
     mail: esecutivo@ai-sf.it
-  - name: AISF Trento
+  - name: AISF Pavia
     mail: trento@ai-sf.it
   - name: Contact person
-    mail: emily.damiani@ai-sf.it
-  
-    
+    mail: sbattolo@email.it
+
+
 
 connect:
   - name: Facebook
     url: https://www.facebook.com/AISF-Trento-958208697625956/
 
 creator:
-  - name: Canteri Marco
-    mail: marco.canteri@ai-sf.it
+  - name: Giovanni Stagnitto
+  - name: Nicolò Valle

@@ -1,10 +1,12 @@
-- text: Facilities
+- text: Visite
   url: facilities
 - text: Accomodation
   url: accomodation
-- text: Programme
+- text: Conferenze
+  url: speakers
+- text: Programma
   url: programme
-- text: Registration
+- text: Registrazione
   url: registration
 - text: Gallery
   url: gallery

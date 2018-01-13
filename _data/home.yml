@@ -1,8 +1,8 @@
-banner: img/prova.png
+banner: img/logo_biple.jpg
 
-who: "<b>50</b> studenti dei corsi di laurea <b>Triennale</b> o <b>Magistrale</b> che siano regolarmente iscritti all'Associazione Italiana Studenti di Fisica (AISF) per l'anno 2018"
+who: "<b>50</b> studenti dei corsi di laurea <b>Triennale</b> o <b>Magistrale</b> o del <b>Dottorato di ricerca</b> che siano regolarmente iscritti all'Associazione Italiana Studenti di Fisica (AISF) per l'anno 2018"
 
-when: "21-24 marzo 2018"
+when: "martedì 20 marzo - sabato 24 marzo 2018"
 
 where: "<b>Pavia</b> e <b>Milano</b>: conferenze presso i Dipartimenti di Fisica dell'Università degli Studi di Pavia e dell'Università degli Studi di Milano, visite organizzate presso enti di ricerca e strutture ospedaliere della zona"
 
@@ -11,8 +11,9 @@ slideshow:
   - img: img/innsbruck.jpg
     alt: Innsbruck
     title: Innsbruck
-  - img: img/CNAO.jpg
+  - img: img/pavia.jpg
     alt: Centro Nazionale di Adroterapia Oncologica (CNAO) - Pavia
     title:
 
-paragraph: "Evento organizzato da Sbattolo"
+paragraph: "I 50 partecipanti assisteranno a una serie di conferenze tenute da docenti e
+ricercatori universitari, ma soprattutto potranno visitare centri di ricerca di grande rilievo sul panorama nazionale e internazionale."
