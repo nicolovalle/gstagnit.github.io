@@ -159,7 +159,7 @@ few_info:
         - text: "trasporti per le trasferte a Milano;"
         - text: "sacchetto con i gadget dell'evento."
     - text:  "La quota di partecipazione con alloggio comprende inoltre il soggiorno presso uno dei collegi della rete EDISU di Pavia per le 4 notti dell'evento."
-    - text: "La quota di partecipazione <b>non comprende</b>:"
+    - text: "Entrambe le quote di partecipazione <b>non comprendono</b>:"
       subpoints:
         - text: "trasporto verso Pavia all'andata e trasporto da Milano al ritorno;"
         - text: "assicurazione;"
