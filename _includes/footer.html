@@ -6,7 +6,8 @@
         <p class="grey-text text-lighten-4">{{ site.data.footer.descr }}</p>
       </div>
       <div class="col l3 m6 s6">
-        <h5 class="white-text">Contact</h5>
+        <h5 class="white-text">Contact @</h5>
+        <!-- <i class="material-icons">mail_outline</i> -->
         <ul>
         {% for item in site.data.footer.contact %}
           <li>{{ item.name }}</li>
@@ -15,11 +16,11 @@
         </ul>
       </div>
       <div class="col l3 m6 s6">
-        <h5 class="white-text">Connect</h5>
+        <h5 class="white-text">Connect  <img src="{{site.url}}/img/logo_FB.svg" height=30px></h5>
         <ul>
           {% for item in site.data.footer.connect %}
 	        <li>
-            <a class="white-text" href="{{item.url}}" target="_blank"><img src="{{site.url}}/img/fb_logo.png"></a>
+            <a class="white-text" href="{{item.url}}" target="_blank"><img src="{{site.url}}/img/{{ item.img_name }}" height=80px></a>
           </li>
 	        {% endfor %}
         </ul>

@@ -3,42 +3,36 @@ layout: page
 title: Speakers
 ---
 
-<p>
-  {{ site.data.speakers.intro }}
-</p>
-  <div class="section">
-    <h2>Speakers</h2>
-      {% for item in site.data.speakers.science %}
-      {% assign col = forloop.index0 | modulo:2 %}
-      {% if col == 0 %}
-       <div class="row">
-        {% endif %}
-       <div class="col s12 m6">
-       <div class="card">
-       <div class="card-image waves-effect eaves-block waves-light">
-         <img class="activator" src="{{ site.url}}/{{ item.img }}">
-</div>
-<div class="card-content">
-<span class="card-title activator grey-text text-darken-4">{{ item.title }}<i class="material-icons right">more_vert</i>
-<p>
-<small>
-{{ item.shortdes }}
-</small>
-</p>
-</span>
-</div>
-<div class="card-reveal">
-<span class="card-title grey-text text-darken-4">{{ item.title }}<i class="material-icons right">close</i></span>
-<p>
-<small>
-{{ item.descr }}
-</small>
-</p>
-</div>
-</div>
-</div>
-{% if col == 1 %}
-</div>
-{% endif %}
-{% endfor %}
-</div>
+
+<ul class="collection">
+	{% for item in site.data.speakers %}
+	    <li class="collection-item avatar" id="{{ item.nome }}">
+	      	<img src="{{ item.img }}" alt="" class="circle">
+	      	<span class="title">
+				{{ item.nome }}
+			</span>
+	      	<p>
+				{{ item.bio }}
+				<br>
+				{% if item.ex != nil %}
+					Ex presidenti: {{ item.ex }}
+				{% endif %}
+	      	</p>
+	      	<div class="secondary-content">
+				{% if item.fb != nil %}
+					<a href="{{ item.fb }}" title="Pagina Facebook">
+						<i class="fa fa-lg fa-facebook-square" aria-hidden="true"></i>
+					</a>
+				{% endif %}
+				{% if item.regolamento != nil %}
+		        	<a href="{{ item.regolamento }}" title="Regolamento Interno">
+						<i class="fa fa-lg fa-file-text"></i>
+					</a>
+				{% endif %}
+	      		<a href="mailto:{{ item.mail }}&#64;&#97;&#105;&#45;&#115;&#102;&#46;&#105;&#116;" title="Indirizzo email">
+					<i class="fa fa-lg fa-envelope"></i>
+				</a>
+			</div>
+	    </li>
+	{% endfor %}
+</ul>

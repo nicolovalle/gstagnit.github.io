@@ -1,14 +1,36 @@
 ---
 layout: page
-title: Registration
+title: Registrazione all'evento
 ---
 
 <div class="section">
-  <h2>General Info</h2>
+  <h2>Informazioni generali</h2>
+  <p>{{ site.data.registration.deadlines.info }}</p>
+  <ul class="collection">
+  {% for item in site.data.registration.deadlines.specs %}
+    <li
+      class="collection-item black-text">
+      {{ item.text }}
+    </li>
+    {% for item2 in item.subpoints %}
+      <li class="collection-item black-text custom1 lighten-5">
+        {{ item2.text }}
+        {% if item.url != "#!" %}
+          <span class="badge custom1 white-text">{{ item2.button }}</span>
+        {% endif %}
+      </li>
+    {% endfor %}
+  {% endfor %}
+</ul>
+  <p>{{ site.data.registration.deadlines.lastinfo }}</p>
+  </div>
+
+<!-- <div class="section">
+  <h2>Informazioni generali</h2>
   <p>
     {{ site.data.registration.info }}
   </p>
-</div>
+</div> -->
 
 {% if site.data.registration.posters? %}
   <div class="section">
@@ -21,35 +43,9 @@ title: Registration
 
 
 <div class="row center">
-    <a href="https://www.eventbrite.co.uk/e/tiqit-tickets-31325711045" target="_blank" id="download-button" class="btn-large waves-effect waves-light teal lighten-1">Register</a><br>
+    <a href="{{site.url}}/img/regefwerwer02342340123123.jpg" target="_blank" id="download-button" class="btn-large waves-effect waves-light teal lighten-1">Registrazione</a><br>
   </div>
 
-
-
-
-<div class="section">
-  <h2>Deadline for registration and payment</h2>
-  <p>{{ site.data.registration.deadlines.info }}<p>
-  <ul class="collection">
-  {% for item in site.data.registration.deadlines.specs %}
-    <li
-      class="collection-item black-text">
-      {{ item.text }}
-      
-    </li>
-    {% for item2 in item.subpoints %}
-      <li
-        
-        class="collection-item black-text custom1 lighten-5">
-        {{ item2.text }}
-        {% if item.url != "#!" %}
-          <span class="badge custom1 white-text">{{ item2.button }}</span>
-        {% endif %}
-      </li>
-    {% endfor %}
-  {% endfor %}
-  </div>
-</div>
 
 
 
@@ -80,4 +76,4 @@ title: Registration
   {% endfor %}
   </ul>
 </div>
-
+</div>

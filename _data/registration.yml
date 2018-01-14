@@ -1,9 +1,20 @@
-info: "Registration on eventbrite (click on the link below) will be open from 1st Febraury at 00:00 GMT+1 to 15th February.
-</p><p>
-Please read the terms and conditions below. Please note that, upon registration, you will be asked for personal details (such as name, surname, date of birth, university affiliation, etc.)."
+info: "Le registrazioni sono aperte da lunedì 22 gennaio a mezzogiorno fino a venerdì 9 febbraio a mezzogiorno.</p><p>
+Please read the terms and conditions below. Please note that, upon registration, you will be asked for personal details (such as name, surname, date of birth, university affiliation, etc.
+Prima di registrarsi, per favore leggere"
 
 posters?: false
 
+
+
+deadlines:
+  info: "Le registrazioni sono aperte da lunedì 22 gennaio a mezzogiorno fino a venerdì 9 febbraio a mezzogiorno."
+  specs:
+    - text: "Durante la fase di registrazione, verranno richiesti alcuni dati personali, oltre al caricamento di un documento di identità: si prega pertanto di <b>leggere attentamente</b> i termini e le condizioni di iscrizione riportati qui sotto (in lingua inglese)."
+    - text: "In particolare il documento d'identità in fase di registrazione è richiesto per motivi legali per la visita al L.E.N.A, il quale richiede con largo anticipo la lista dei (possibili) partecipanti."
+    - text: "Nel giro di qualche giorno dopo il termine del periodo di registrazione, i partecipanti selezionati saranno avvisati tramite l'indirizzo email indicato in fase di registrazione. Si prega a tal proposito di controllare quotidianamente la casella di posta."
+    - text: "Sarà quindi richiesto il pagamento della quota di iscrizione entro e non oltre <b>7 giorni</b> dalla ricezione della mail, pena l'esclusione dalla partecipazione all'evento."
+    - text: "Una volta definiti i partecipanti all'evento sarà effettuato un sondaggio per formare i gruppi per le visite."
+  lastinfo: "Per procedere con la registrazione, cliccare sul seguente link. "
 
 terms:
   info: "Please read carefully and take note of the following:"
@@ -12,7 +23,7 @@ terms:
       url: "#!"
     - text: "Only students enrolled in a university or similar institution on a physics or physics-related course, as well as up to twelve months after receiving a degree from a university are able to participate in this event. Only students with an age of at least 18 years are allowed to attend the conference."
       url: "#!"
-    - text: "You acknowledge and agree that the organizing committee and the hosts of the event have no responsibility whatsoever for injuries, losses, or damages of any kind that result from your participation in the Trento Innsbruck Quantum Information Tour 2017."
+    - text: "You acknowledge and agree that the organizing committee and the hosts of the event have no responsibility whatsoever for injuries, losses, or damages of any kind that result from your participation in the Bio-medical Physics Lombard Event."
       url: "#!"
     - text: "You accept the IAPS Code of Conduct."
       url: "files/IAPS_Code_of_Conduct.pdf"
@@ -25,11 +36,3 @@ terms:
       url: "#!"
     - text: "The present terms and conditions are governed by the laws of the Republic of Italy."
       url: "#!"
-
-deadlines:
-  info: ""
-  specs:
-    - text: "Registration opens on 1st Febraury (00:00, GTM+1) and closes 15th Febraury  (11:00, GTM+1)"
-    - text: "within 3 days after the registration deadline, all selected participants have been notified.
-You could receive your confirmation mail at any time from the moment you register to 18th Febraury, so keep your mailbox checked! Payments will then be required (by bank transfer or PayPal) within 7 days from the confirmation mail. 
-After the event is fully booked, you can still register and you will be automatically put in the waiting list. In this case, you will receive your confirmation not later than 25th Febraury"
