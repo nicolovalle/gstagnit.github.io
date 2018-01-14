@@ -163,6 +163,6 @@ few_info:
       subpoints:
         - text: "trasporto verso Pavia all'andata e trasporto da Milano al ritorno;"
         - text: "assicurazione;"
-        - text: "trasporti all'interno di Pavia;"
+        - text: "trasporti all'interno di Pavia (dal centro al Dipartimento di Fisica occorre un 20 di minuti a piedi);"
         - text: "cena di mercoledì e venerdi."
     - text: "Per procedere con la registrazione, cliccare <a href='/registration/'>qui</a>."
