@@ -71,7 +71,13 @@ layout: default
           <tr>
         <td>{{ act.hour }}</td>
         <td>{{ act.where }}</td>
-        <td>{{ act.descr }}</td>
+        <td>
+        {% if act.id != nil %}
+        <a href="{{site.url}}/speakers/#{{act.id}}">{{ act.descr }}</a>
+        {% else %}
+        {{act.descr}}
+        {% endif %}
+         </td>
           </tr>
          {% endfor %}
         </tbody>
