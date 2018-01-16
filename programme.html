@@ -47,9 +47,9 @@ layout: default
     <div class="col s12">
       <ul class="tabs">
       {% for item in site.data.programme.schedule %}
-            <li class="tab col m3 s12" style="width: 20%;"><a class="orange-text" href="#{{ item.date }}">{{ item.day }}</a></li>
+            <li class="tab col m3 s12" style="width: 20%;"><a style="color:{{ site.data.generic.color1 }}" href="#{{ item.date }}">{{ item.day }}</a></li>
     {% endfor %}
-    <div class="indicator orange" style="z-index:1"></div>
+    <div class="indicator color:{{ site.data.generic.color1 }}" style="z-index:1"></div>
       </ul>
     </div>
 
@@ -57,7 +57,7 @@ layout: default
     <div id="{{item.date}}" class="col s12">
       <br>
       <h5>{{ item.day_ex }}</h5>
-      <h5 class="blue-text">{{ item.short_descr }}</h5>
+      <h5><b>{{ item.short_descr }}</b></h5>
       <table>
         <thread>
           <tr>
@@ -68,10 +68,32 @@ layout: default
         </thread>
         <tbody>
         {% for act in item.activity %}
+          {% if act.tag == nil %}
+            {% assign bg = "white" %}
+            {% assign tc = "black" %}
+          {% elsif act.tag == "conf" %}
+            {% assign bg = "#ccffff" %}
+            {% assign tc = "#0000cc" %}
+          {% elsif act.tag == "sera" %}
+            {% assign bg = "#ffeecc" %}
+            {% assign tc = "#ff8000" %}
+          {% elsif act.tag == "visit" %}
+            {% assign bg = "#ffc6b3" %}
+            {% assign tc = "#cc0000" %}
+          {% elsif act.tag == "svago" %}
+            {% assign bg = "#c2f0c2" %}
+            {% assign tc = "#006622" %}
+          {% elsif act.tag == "studenti" %}
+            {% assign bg = "#ccccff" %}
+            {% assign tc = "#0000cc" %}
+          {% elsif act.tag == "firstlast" %}
+            {% assign bg = "#fff2e6" %}
+            {% assign tc = "#0000cc" %}
+          {% endif %}
           <tr>
-        <td>{{ act.hour }}</td>
-        <td>{{ act.where }}</td>
-        <td>
+        <td bgcolor="{{ bg }}" style="color:{{tc}}">{{ act.hour }}</td>
+        <td bgcolor="{{ bg }}" style="color:{{tc}}">{{ act.where }}</td>
+        <td bgcolor="{{ bg }}" style="color:{{tc}}">
         {% if act.id != nil %}
         <a href="{{site.url}}/speakers/#{{act.id}}">{{ act.descr }}</a>
         {% else %}

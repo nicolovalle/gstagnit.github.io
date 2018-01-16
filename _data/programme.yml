@@ -5,145 +5,190 @@ last_update: 12/01/17
 schedule:
   - day: Mar 20
     date: "200318"
-    day_ex: Martedì 20 marzo
+    day_ex: Martedì 20 marzo (Pavia)
     short_descr: Apertura lavori e conferenze introduttive
     activity:
       - hour: "14:00 - 16:00"
-        where: "Pavia (DIP)"
+        where: "Dipartimento di Fisica"
         descr: "Registrazione partecipanti"
+        tag:
       - hour: "16:00 - 17:00"
-        where: "Pavia (DIP)"
+        where: "Dipartimento di Fisica"
         descr: "Cerimonia di apertura"
+        tag: firstlast
       - hour: "17:00 - 18:30"
-        where: "Pavia (DIP)"
+        where: "Dipartimento di Fisica"
         descr: "Lezioni introduttive sulla Fisica Biosanitaria"
+        tag: conf
       - hour: "20:00 - 23:30"
-        where: "Pavia (Santa Maria Gualteri)"
+        where: "Santa Maria Gualteri"
         descr: "Aperitivo con Quiz Scientifico"
+        tag: sera
 
   - day: Mer 21
     date: "210318"
-    day_ex: Mercoledì 21 marzo
+    day_ex: Mercoledì 21 marzo (Pavia)
     short_descr: "Visita al LENA e conferenze a Pavia"
     activity:
       - hour: "9:00 - 9:45"
-        where: "Pavia (DIP)"
+        where: "Dipartimento di Fisica"
         descr: "Conferenza BNCT - Bortolussi"
         id: bortolussi
+        tag: conf
       - hour: "9:45 - 10:30"
-        where: "Pavia (DIP)"
+        where: "Dipartimento di Fisica"
         descr: "Conferenza NMRI - Palesi"
+        tag: conf
       - hour: "10:30 - 11:00"
-        where: "Pavia (DIP)"
+        where: "Dipartimento di Fisica"
         descr: "Coffee Break"
+        tag: svago
       - hour: "11:00 - 11:45"
-        where: "Pavia (DIP)"
+        where: "Dipartimento di Fisica"
         descr: "Conferenza PERSEO - Baiocco"
+        tag: conf
       - hour: "11:45 - 12:30"
-        where: "Pavia (DIP)"
+        where: "Dipartimento di Fisica"
         descr: "Conferenza introduttiva alla visita al LENA"
+        tag: conf
       - hour: "12:30 - 14:00"
-        where: "Pavia (Mensa Cravino)"
+        where: "Mensa Cravino"
         descr: "Pranzo"
+        tag: svago
       - hour: "14:00 - 16:30"
-        where: "Pavia (LENA)"
+        where: "LENA"
         descr: "Visita al LENA"
+        tag: visit
       - hour: "16:30 - 17:00"
-        where: "Pavia (DIP)"
+        where: "Dipartimento di Fisica"
         descr: "Coffee Break"
+        tag: svago
       - hour: "17:00 - 19:00"
-        where: "Pavia (DIP)"
+        where: "Dipartimento di Fisica"
         descr: "Talk degli studenti"
-      - hour: "19:00 - "
-        where: "Pavia"
+        tag: studenti
+      - hour:
+        where:
         descr: "Serata libera (Mercoledì universitario)"
+        tag:
 
   - day: Gio 22
     date: "220318"
-    day_ex: Giovedì 22 marzo
+    day_ex: Giovedì 22 marzo (Milano)
     short_descr: "Giornata a Milano"
     activity:
+      - hour: "8:00"
+        where:
+        descr: "Partenza per Milano in pullman"
+        tag:
       - hour: "9:00 - 9:45"
-        where: "Milano (DIP)"
+        where: "Dipartimento di Fisica UniMi"
         descr: "Conferenza NP magnetiche - Lascialfari"
+        tag: conf
       - hour: "9:45 - 10:30"
-        where: "Milano (DIP)"
+        where: "Dipartimento di Fisica UniMi"
         descr: "Conferenza Radioprotezione - Groppi"
+        tag: conf
       - hour: "10:30 - 11:00"
-        where: "Milano (DIP)"
+        where: "Dipartimento di Fisica UniMi"
         descr: "Coffee Break"
+        tag: svago
       - hour: "11:00 - 11:45"
-        where: "Milano (DIP)"
+        where: "Dipartimento di Fisica UniMi"
         descr: "Conferenza Adroterapia 1 - Battistoni"
+        tag: conf
       - hour: "11:45 - 12:30"
-        where: "Milano (DIP)"
+        where: "Dipartimento di Fisica UniMi"
         descr: "Conferenza Dosimetria - Veronese"
+        tag: conf
       - hour: "12:30 - 14:00"
-        where: "Milano (Mensa)"
+        where: "Mensa UniMi"
         descr: "Pranzo"
+        tag: svago
       - hour: "15:00 - 18:00"
         where: "Milano"
         descr: "GRUPPO 1: Visita IFOM"
+        tag: visit
       - hour: "15:00 - 18:00"
         where: "Milano"
         descr: "GRUPPO 2: Visita Istituto Nazionale Tumori"
+        tag: visit
       - hour: "15:00 - 18:00"
         where: "Milano"
         descr: "GRUPPO 3: Visita San Raffaele"
+        tag: visit
       - hour: "19:30 - 23:30"
-        where: "Milano (Associazione Vermamanus)"
+        where: "Associazione Verbamanus"
         descr: "Cena con delitto"
+        tag: sera
+      - hour: "23:30"
+        where:
+        descr: "Ritorno a Pavia in pullman"
+        tag:
 
   - day: Ven 23
     date: "230318"
-    day_ex: Venerdì 23 marzo
+    day_ex: Venerdì 23 marzo (Pavia)
     short_descr: "Visita al CNAO e conferenze a Pavia"
     activity:
       - hour: "9:00 - 9:45"
-        where: "Pavia (DIP)"
+        where: "Dipartimento di Fisica"
         descr: "Conferenza introduttiva alla visita al CNAO"
+        tag: conf
       - hour: "9:45 - 10:30"
-        where: "Pavia (DIP)"
+        where: "Dipartimento di Fisica"
         descr: "Conferenza Adroterapia 2 - Battistoni"
+        tag: conf
       - hour: "11:00 - 12:00"
-        where: "Pavia (Mensa Cravino)"
+        where: "Mensa Cravino"
         descr: "Pranzo"
+        tag: svago
       - hour: "12:00 - 14:00"
-        where: "Pavia (CNAO)"
+        where: "CNAO"
         descr: "Visita CNAO"
+        tag: visit
       - hour: "14:30 - 15:00"
-        where: "Pavia (DIP)"
+        where: "Dipartimento di Fisica"
         descr: "Coffee Break"
+        tag: svago
       - hour: "15:00 - 17:00"
-        where: "Pavia (DIP)"
+        where: "Dipartimento di Fisica"
         descr: "Poster session"
+        tag: studenti
       - hour: "17:00 - 19:00"
-        where: "Pavia (DIP)"
+        where: "Dipartimento di Fisica"
         descr: "Talk studenti"
-      - hour: "19:00 - "
-        where: "Pavia"
+        tag: studenti
+      - hour:
+        where:
         descr: "Serata libera"
+        tag:
 
   - day: Sab 24
     date: "240318"
-    day_ex: Sabato 24 marzo
+    day_ex: Sabato 24 marzo (Milano)
     short_descr: "Visite a Milano e chiusura lavori"
     activity:
       - hour: "9:00 - 12:00"
         where: "Milano"
         descr: "GRUPPO 1: Visita IEO"
+        tag: visit
       - hour: "9:00 - 12:00"
         where: "Milano"
         descr: "GRUPPO 2: Visita IFOM"
+        tag: visit
       - hour: "9:00 - 12:00"
         where: "Milano"
         descr: "GRUPPO 3: Visita IFOM"
+        tag: visit
       - hour: "12:00 - 14:00"
         where: "da definire"
         descr: "pranzo"
+        tag: svago
       - hour: "14:00 - 15:00"
         where: "da definire"
         descr: "cerimonia di chiusura"
+        tag: firstlast
 
 few_info:
   info: ""
