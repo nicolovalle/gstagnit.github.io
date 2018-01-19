@@ -193,7 +193,7 @@ schedule:
 few_info:
   info: ""
   specs:
-    - text: "Per registrarsi all'evento occorre essere membri AISF, regolarmente iscritti per l'anno accademico 2017/2018. L'iscrizione costa 5 euro per gli studenti di laurea triennale o magistrale, 10 euro per gli studenti di dottorato di ricerca. Ci si può iscrivere <a href='http://ai-sf.it/iscrizione/' target='_blank'>qui</a>. Essere membri AISF implica essere anche membri di IAPS (International Association of Physics Students)."
+    - text: "Per registrarsi all'evento occorre essere membri AISF, regolarmente iscritti per l'anno accademico 2017/2018. L'iscrizione costa 5 euro per gli studenti di laurea triennale o magistrale, 10 euro per gli studenti di dottorato di ricerca. Ci si può iscrivere <a href='http://ai-sf.it/iscrizione/' target='_blank'>qui</a>. La quota di iscrizione all'AISF include la membership IAPS (International Association of Physics Students) di cui AISF è National Committee per l'Italia."
     - text: "Sono disponibili in totale 50 posti:"
       subpoints:
         - text: "<b>40</b> con alloggio in Pavia, con quota di <b>100</b> euro;"
@@ -209,6 +209,6 @@ few_info:
       subpoints:
         - text: "trasporto verso Pavia all'andata e trasporto da Milano al ritorno;"
         - text: "assicurazione;"
-        - text: "trasporti all'interno di Pavia (dal centro al Dipartimento di Fisica occorre un 20 di minuti a piedi);"
+        - text: "trasporti all'interno di Pavia (il Dipartimento dista dal centro città circa 20 minuti a piedi);"
         - text: "cena di mercoledì e venerdi."
     - text: "Per procedere con la registrazione, cliccare <a href='/registration/'>qui</a>."
