@@ -18,29 +18,18 @@ Le conferenze si svolgeranno sia a Milano sia a Pavia. Saranno tenute da docenti
     <span>
       <i>{{ item.uni }}</i>
     </span>
-    <p>
+    <p style="text-align:justify">
       {{ item.bio }}
       <br>
-      {% if item.ex != nil %}
-      Ex presidenti: {{ item.ex }}
-      {% endif %}
     </p>
-    <p class="blue-text">Titolo conferenza: <b>{{item.title}}</b></p>
-    <div class="secondary-content">
-		<!--		{% if item.fb != nil %}
-					<a href="{{ item.fb }}" title="Pagina Facebook">
-						<i class="fa fa-lg fa-facebook-square" aria-hidden="true"></i>
-					</a>
-				{% endif %}
-				{% if item.regolamento != nil %}
-		        	<a href="{{ item.regolamento }}" title="Regolamento Interno">
-						<i class="fa fa-lg fa-file-text"></i>
-					</a>
-				{% endif %} -->
-	      		<a href="{{site.url}}/programme" title="Vedi evento nel programma">
-					<i class="fa fa-lg fa-calendar"></i>
-				</a>
-			</div>
+		<br>
+    <p style="color:{{site.data.generic.color1}}">Titolo presentazione: <b>{{item.title}}</b></p>
+		<p>{{ item.abstract }}</p>
+    <!-- <div class="secondary-content">
+			<a href="{{site.url}}/programme" title="Vedi evento nel programma">
+				<i class="fa fa-lg fa-calendar"></i>
+			</a>
+		</div> -->
 	    </li>
 	{% endfor %}
 </ul>

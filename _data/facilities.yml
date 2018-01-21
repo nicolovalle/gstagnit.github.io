@@ -1,12 +1,13 @@
-intro: "The University of Trento is a recent, medium-sized university: the Department of Physics was established in 2012 after its researchers had been engaged in many key sectors. During this event the University will host talks focused on the research performed in Trento about Bose-Einstein condensation and Nanosciense.
-<br><br>
-The Innsbruck Physics Research Center conducts many researches about a broad range of modern topics in physics. The Center is organized along three main research areas: Astro- and Astroparticle Physics, Ion- and Applied Physics, and Quantum Physics. The Center cooperates with many research institutions worldwide and provides a truly international environment for researchers from all over the world.
-<br><br>
-The Institute for Quantum Optics and Quantum Information (IQOQI) of the Austrian Academy of Sciences dedicates its work to theoretical and experimental basic research in the areas of quantum optics and quantum information science. Internationality, worldwide networking and highly actual research topics characterize the institute's work. A particular concern of the institute is the sustainable advancement of young academics, and together with the University of Innsbruck, their integration into the research and teaching program."
+intro: "Qualche parola di intro"
 
+pavia:
+  - img: img/lena.jpg
+    title: L.E.N.A
+    descr: Il Laboratorio Energia Nucleare Applicata LENA è un “Centro Servizi Interdipartimentale” dell’Università degli Studi di Pavia che gestisce un reattore nucleare di ricerca, un ciclotrone per la produzione di radioisotopi e altre sorgenti di radiazioni ionizzanti mettendole a disposizione di ricercatori dell’Ateneo pavese e di altri utenti, pubblici e privati, per lo svolgimento di attività di ricerca applicata, di didattica e di servizio. Il Centro svolge direttamente attività di ricerca e di formazione ed eroga servizi ai privati incoraggiando il trasferimento dei risultati della ricerca nel campo delle tecnologie nucleari al sistema produttivo.
+    site: http://lena.unipv.it
+    id: lena
+    map: https://goo.gl/maps/6D3Q61L8LsA2
 
-
-science:
   - img: img/cnao_acc.jpg
     slideshow:
       - slide: img/cnao_centro.jpg
@@ -15,28 +16,40 @@ science:
     title: Fondazione CNAO
     descr: "Il Centro Nazionale di Adroterapia Oncologica è nato con lo scopo di curare i tumori mediante l’impiego di protoni e di ioni carbonio, particelle appartenenti alla categoria degli adroni. La Fondazione CNAO è anche un Centro di Ricerca e Sviluppo le cui attività spaziano dalla ricerca clinica alla ricerca radiobiologica, a quella traslazionale con l’obiettivo di fornire un continuo miglioramento nella capacità di cura."
     site: https://www.fondazionecnao.it/
+    id: cnao
+    map: https://goo.gl/maps/1t1iNQmZ8ez
 
-  - img: img/lena.jpg
-    title: L.E.N.A
-    descr: Il Laboratorio Energia Nucleare Applicata LENA è un “Centro Servizi Interdipartimentale” dell’Università degli Studi di Pavia che gestisce un reattore nucleare di ricerca, un ciclotrone per la produzione di radioisotopi e altre sorgenti di radiazioni ionizzanti mettendole a disposizione di ricercatori dell’Ateneo pavese e di altri utenti, pubblici e privati, per lo svolgimento di attività di ricerca applicata, di didattica e di servizio. Il Centro svolge direttamente attività di ricerca e di formazione ed eroga servizi ai privati incoraggiando il trasferimento dei risultati della ricerca nel campo delle tecnologie nucleari al sistema produttivo.
-    site: http://lena.unipv.it
-
+milano:
   - img: img/ifom.jpeg
-    title: IFOM
+    title: Istituto FIRC di Oncologia Molecolare (IFOM)
     descr: Fondato nel 1998 da FIRC-AIRC, IFOM (Istituto FIRC di Oncologia Molecolare) è un centro di ricerca dedicato allo studio della formazione e dello sviluppo dei tumori a livello molecolare, nell'ottica di un rapido trasferimento dei risultati dal laboratorio alla pratica diagnostica e terapeutica.
     site: https://www.ifom.eu/it/
+    id: ifom
+    map: https://goo.gl/maps/THTmYTmDNGn
 
   - img: img/IEO.png
-    title: IEO
-    descr: non so cosa scrivere qua
+    title: Istituto Europeo di Oncologia (IEO)
+    descr: prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova
     site: https://www.ieo.it/
+    id: https://goo.gl/maps/DQjG2MS3zsG2
 
   - img: img/hsr.jpg
-    title: Ospedale San Raffaele
-    descr: boh
+    title: IRCCS Ospedale San Raffaele
+    descr: prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova
     website: http://research.hsr.it/en/index.html
+    id: sanraffaele
+    map: https://goo.gl/maps/Kk17kXqKVP62
 
   - img: img/niguarda.png
-    title: Ospedale Niguarda
-    descr: boh
+    title: ASST Grande Ospedale Metropolitano Niguarda
+    descr: prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova
     website: http://www.ospedaleniguarda.it/
+    id: niguarda
+    map: https://goo.gl/maps/1jdEgqcJtH82
+
+  - img: img/INT.jpg
+    title: Fondazione IRCCS Istituto Nazionale dei Tumori (INT)
+    descr: La Fondazione IRCCS Istituto Nazionale dei Tumori (abbreviato come INT) è un ospedale pubblico milanese dedicato esclusivamente alla cura del cancro, sia dal punto di vista clinico, sia della ricerca. Al giorno d'oggi, rappresenta il più grande centro oncologico in Lombardia, oltre che la sede dell'ufficio di coordinamento della Rete oncologica lombarda (R.O.L.).
+    site: http://www.istitutotumori.mi.it/
+    id: int
+    map: https://goo.gl/maps/tQZpfpEg7nJ2

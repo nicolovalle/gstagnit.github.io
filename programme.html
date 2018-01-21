@@ -69,38 +69,45 @@ layout: default
         <tbody>
         {% for act in item.activity %}
           {% if act.tag == nil %}
-            {% assign bg = "white" %}
+            {% assign bg = "rgba(0,0,0,0)" %}
             {% assign tc = "black" %}
           {% elsif act.tag == "conf" %}
-            {% assign bg = "#ccffff" %}
-            {% assign tc = "#0000cc" %}
+            {% assign bg = "rgba(0,0,0,0)" %}
+            {% assign tc = "#0000a0" %}
           {% elsif act.tag == "sera" %}
-            {% assign bg = "#ffeecc" %}
-            {% assign tc = "#ff8000" %}
+            {% assign bg = "#eeeeee" %}
+            {% assign tc = "#000000" %}
           {% elsif act.tag == "visit" %}
-            {% assign bg = "#ffc6b3" %}
-            {% assign tc = "#cc0000" %}
+            {% assign bg = "#rgba(0,0,0,0)" %}
+            {% assign tc = "#00802b" %}
           {% elsif act.tag == "svago" %}
-            {% assign bg = "#c2f0c2" %}
-            {% assign tc = "#006622" %}
+            {% assign bg = "#eeeeee" %}
+            {% assign tc = "#000000" %}
           {% elsif act.tag == "studenti" %}
-            {% assign bg = "#ccccff" %}
-            {% assign tc = "#0000cc" %}
+            {% assign bg = "rgba(0,0,0,0)" %}
+            {% assign tc = "#990099" %}
           {% elsif act.tag == "firstlast" %}
-            {% assign bg = "#fff2e6" %}
-            {% assign tc = "#0000cc" %}
+            {% assign bg = "#eeeeee" %}
+            {% assign tc = "#000000" %}
           {% endif %}
-          <tr>
-        <td bgcolor="{{ bg }}" style="color:{{tc}}">{{ act.hour }}</td>
-        <td bgcolor="{{ bg }}" style="color:{{tc}}">{{ act.where }}</td>
-        <td bgcolor="{{ bg }}" style="color:{{tc}}">
-        {% if act.id != nil %}
-        <a href="{{site.url}}/speakers/#{{act.id}}">{{ act.descr }}</a>
+        <!-- {% if act.line != nil %}
+        <tr style="border-bottom:1px solid black">
         {% else %}
-        {{act.descr}}
+        <tr>
+        {% endif %} -->
+        <td style="background-color:{{bg}}">{{ act.hour }}</td>
+        {% if act.map != nil %}
+        <td style="background-color:{{bg}}">{{ act.where }} <a href='{{act.map}}' target='_blank'><i class="fa fa-globe fa-lg" aria-hidden="true" style="color:{{site.data.generic.color1}}"></i></a></td>
+        {% else %}
+        <td style="background-color:{{bg}}">{{ act.where }}</td>
         {% endif %}
-         </td>
-          </tr>
+        <td style="background-color:{{bg}}; color:{{tc}}; text-align:center">{{ act.descr }}</td>
+        {% if act.id != nil %}
+        <td style="background-color:{{bg}}"><a href="{{site.url}}/{{act.id}}" target='_blank'><i class="fa fa-arrow-right fa-lg" style="color:{{site.data.generic.color1}}" aria-hidden="true"></i></a></td>
+        {% else %}
+        <td style="background-color:{{bg}}"></td>
+        {% endif %}
+        </tr>
          {% endfor %}
         </tbody>
       </table>

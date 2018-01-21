@@ -1,47 +1,99 @@
 - nome: "Prof. Alessandro Lascialfari"
+  id: lascialfari
   uni: "Università degli Studi di Milano"
   img: "/img/speakers/lascialfari.jpg"
-  title: "NP magnetiche"
-  bio: Professore ordinario bla bla
-  abstract:
+  title: "Titolo dell'incontro conferenza"
+  bio: short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio
+  abstract: breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract
   link:
 
 - nome: "Dott.ssa Silva Bortolussi"
+  id: bortolussi
   uni: "Università degli Studi di Pavia"
   img: "/img/speakers/bortolussi.jpg"
-  title: "NP magnetiche"
-  bio: My research interests are in the field of nuclear physics applied to medicine and biology, in particular in Boron Neutron Capture Therapy (BNCT). I perform computational dosimetry by Monte Carlo calculations of neutron and gamma transport, and treatment planning simulations. I am interested in the development and employ of new models to express BNCT dose in photon-equivalent units. From the experimental point of view, I perform boron concentration measurements in biological samples by alpha spectrometry and neutron autoradiography especially finalized to assess the feasibility of BNCT for different kinds of tumours or with different boron carriers. Presently, I am working to the realization of a new BNCT facility for clinical trials based on the use of a proton accelerator. In particular, I collaborate in the design of suitable neutron beams on the basis of the dosimetric performances in relevant clinical scenarios. I manage international collaborations (especially in Latin America) and I am active in fund raising and technology transfer activities.
-  abstract:
-  id: bortolussi
+  title: "Titolo dell'incontro conferenza"
+  bio: short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio
+  abstract: breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract
+  link:
+
 
 - nome: "Prof. Giuseppe Battistoni"
+  id: battistoni
   uni: "Università degli Studi di Milano"
   img: "/img/speakers/battistoni.jpg"
-  title: "NP magnetiche"
-  bio: Graduated in Physics in 1977 at the University of Rome, he started the scientific activity during the work for the Thesis at the Frascati Laboratories of INFN on the first development of streamer tube gaseous detectors, under the supervision of Prof. E. Iarocci. After some experience in the physics of e+e- collisions, in the last period of activity of the Adone storage ring, he entered in INFN as researcher, participating to NUSEX experiment on proton decay and to the development of the technique of digital calorimetry in view of the experimentation at LEP. Later he started the experimentation at Gran Sasso Laboratories working in cosmic ray and neutrino physics, participating to the MACRO experiment, where he took care first of the tracking system of the apparatus, and then of data analysis and simulation. Since 1990 he is at INFN-Milano, where he joined the group for the detector R&D for LHC, participating to the development of Liquid Argon e.m. calorimeter for ATLAS, contributing to the development and construction of readout electronics. He later continued the research in non-accelerator high energy physics joining the ICARUS collaboration. In 2001 he contributed to the birth of the international collaboration for the development and diffusion of the FLUKA Monte Carlo code, to which he contributes both at scientific and management level. He has been working with FLUKA for different developments concerning cosmic ray physics, neutrino physics, hadronic interactions and their application to space research and to medicine. In particular he is presently working in simulation of hadron therapy, where he contributed for the development of new treatment planning systems and to the investigation of techniques for the on-line monitoring of therapy. In this field collaborates with CERN and researchers from CNAO and Heidelberg center for hadron therapy. After a three year experience as national coordinator of an INFN strategic project for the development of medicine related projects, he started a project in INFN to coordinate different groups involved in research and development of charged particle therapy, in collaboration also with the hadron therapy centers in Pavia (CNAO) and Trento. He also coordinated the INFN participation to the Envision project in FP7, about the imaging in hadron therapy with ions. He served as Director of INFN Milano from 2006 to 2012.
-  abstract:
+  title: "Titolo dell'incontro conferenza"
+  bio: short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio
+  abstract: breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract
   link:
 
 - nome: "Prof.ssa Flavia Maria Groppi Garlandini"
+  id: groppi
   uni: "Università degli Studi di Milano"
   img: "/img/speakers/groppi.jpg"
-  title: "NP magnetiche"
-  bio: Professore ordinario bla bla
-  abstract:
+  title: "Titolo dell'incontro conferenza"
+  bio: short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio
+  abstract: breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract
   link:
 
 - nome: "Dott.ssa Fulvia Palesi"
+  id: palesi
   uni: "Università degli Studi di Pavia"
   img: "/img/speakers/palesi.png"
-  title: "NP magnetiche"
-  bio: Professore ordinario bla bla
-  abstract:
+  title: "Titolo dell'incontro conferenza"
+  bio: short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio
+  abstract: breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract
   link:
 
 - nome: "Dott. Ivan Veronese"
+  id: veronese
   uni: "Università degli Studi di Milano"
   img: "/img/speakers/veronese.png"
-  title: "NP magnetiche"
-  bio: Professore ordinario bla bla
+  title: "Titolo dell'incontro conferenza"
+  bio: short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio
+  abstract: breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract
+  link:
+
+- nome: "Dott. Giorgio Baiocco"
+  id: baiocco
+  uni: "Università degli Studi di Pavia"
+  img: "/img/speakers/baiocco.jpg"
+  title: "Titolo dell'incontro conferenza"
+  bio: short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio
+  abstract: breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract
+  link:
+
+- nome: "Prof.ssa Francesca Ballarini"
+  id: ballarini
+  uni: "Università degli Studi di Pavia"
+  img: "/img/speakers/ballarini.jpg"
+  title: "Titolo dell'incontro conferenza"
+  bio: short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio
+  abstract: breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract
+  link:
+
+- nome: "Prof. Elio Giroletti"
+  id: giroletti
+  uni: "Università degli Studi di Pavia"
+  img: "/img/speakers/giroletti.jpg"
+  title: "Titolo dell'incontro conferenza"
+  bio: short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio
+  abstract: breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract
+  link:
+
+- nome: "Prof. Alberto Torresin"
+  id: torresin
+  uni: "Università degli Studi di Milano"
+  img: "/img/speakers/torresin.jpg"
+  title: "Titolo dell'incontro conferenza"
+  bio: short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio
+  abstract: breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract
+  link:
+
+- nome: "Dott. Michele Prata"
+  id: prata
+  bio: Laureato in Fisica nel 1999 presso l’Università degli Studi di Pavia con un lavoro di tesi di strumentazione nell’ambito dell’esperimento ATLAS (A Toroidal LHC ApparatuS). Nel 2003 consegue il Dottorato di Ricerca in Fisica, sempre presso l’Università degli Studi di Pavia, con curriculum di Fisica Nucleare e Subnucleare, durante il quale si è occupato del controllo di qualità delle camere MDT dello spettrometro muonico di ATLAS. Parallelamente all’attività di laboratorio ha contribuito allo studio della fenomenologia di modelli con dimensioni spaziali supplementari. Dal 2003 al 2005 Assegnista di Ricerca INFN nell’ambito dell’esperimento ICARUS (Imaging Cosmic And Rare Underground Signals) in cui segue la fase di caratterizzazione del rivelatore TPC, la risposta dei fotomoltiplicatori in ambiente criogenico e la preparazione per l’installazione presso i Laboratori Nazionali del Gran Sasso. Nel 2006 entra nello staff del LENA (Laboratorio Energia Nucleare Applicata) come Operatore del Ciclotrone. Nel 2009 consegue la patente di Operatore del reattore nucleare di ricerca TRIGA Mk II. Nel 2013 consegue la patente di Supervisore e nel 2014 l’Attestato alla Direzione Tecnica di Impianti Nucleari di Ricerca tipo TRIGA Mk II.	Attualmente ricopre l’incarico di Direttore Tecnico di Impianto e Responsabile del Servizio di Fisica Sanitaria del LENA. (<a href='https://www.researchgate.net/profile/Michele_Prata' target='_blank'>ResearchGate</a>)
+  uni: "L.E.N.A."
+  img: "/img/speakers/prata.jpg"
+  title: "Quel nucleare (buono) nel cuore di Pavia"
   abstract:
   link:

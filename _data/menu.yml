@@ -2,6 +2,8 @@
   url: facilities
 - text: Conferenze
   url: speakers
+- text: Serate
+  url: serate
 - text: Programma
   url: programme
 - text: Registrazione

@@ -8,128 +8,170 @@ schedule:
     day_ex: Martedì 20 marzo (Pavia)
     short_descr: Apertura lavori e conferenze introduttive
     activity:
-      - hour: "14:00 - 16:00"
+      - hour: "14:00 - 15:30"
         where: "Dipartimento di Fisica"
         descr: "Registrazione partecipanti"
-        tag:
-      - hour: "16:00 - 17:00"
+        tag: firstlast
+      - hour: "15:30 - 16:30"
         where: "Dipartimento di Fisica"
         descr: "Cerimonia di apertura"
-        tag: firstlast
-      - hour: "17:00 - 18:30"
+        tag:
+      - hour: "16:30 - 17:30"
         where: "Dipartimento di Fisica"
-        descr: "Lezioni introduttive sulla Fisica Biosanitaria"
+        descr: "Elio GIROLETTI <br> <i>Titolo intervento</i>"
         tag: conf
-      - hour: "20:00 - 23:30"
+        id: speakers/#giroletti
+      - hour: "17:30 - 18:00"
+        where: "Dipartimento di Fisica"
+        descr: "Coffee Break"
+        tag: svago
+      - hour: "18:00 - 19:00"
+        where: "Dipartimento di Fisica"
+        descr: "Francesca BALLARINI <br> <i>Titolo intervento</i>"
+        tag: conf
+        id: speakers/#ballarini
+      - hour: "20:30 - 23:30"
         where: "Santa Maria Gualteri"
         descr: "Aperitivo con Quiz Scientifico"
         tag: sera
+        map: https://goo.gl/maps/o8eeEh8wbp22
+        id: serate/#aperitivo
 
   - day: Mer 21
     date: "210318"
     day_ex: Mercoledì 21 marzo (Pavia)
-    short_descr: "Visita al LENA e conferenze a Pavia"
+    short_descr: "Visita al L.E.N.A., conferenze e talk studenti"
     activity:
-      - hour: "9:00 - 9:45"
+      - hour: "9:15 - 10:00"
         where: "Dipartimento di Fisica"
-        descr: "Conferenza BNCT - Bortolussi"
-        id: bortolussi
+        descr: "Alberto TORRESIN <br> <i>Titolo intervento</i>"
+        id: speakers/#torresin
         tag: conf
-      - hour: "9:45 - 10:30"
+      - hour: "10:00 - 10:45"
         where: "Dipartimento di Fisica"
-        descr: "Conferenza NMRI - Palesi"
+        descr: "Fulvia PALESI <br> <i>Titolo intervento</i>"
+        id: speakers/#palesi
         tag: conf
-      - hour: "10:30 - 11:00"
+      - hour: "10:45 - 11:15"
         where: "Dipartimento di Fisica"
         descr: "Coffee Break"
         tag: svago
-      - hour: "11:00 - 11:45"
+      - hour: "11:15 - 12:00"
         where: "Dipartimento di Fisica"
-        descr: "Conferenza PERSEO - Baiocco"
+        descr: "Silva BORTOLUSSI <br> <i>Titolo intervento</i>"
+        id: speakers/#bortolussi
         tag: conf
-      - hour: "11:45 - 12:30"
+      - hour: "12:00 - 12:45"
         where: "Dipartimento di Fisica"
-        descr: "Conferenza introduttiva alla visita al LENA"
+        descr: "Michele PRATA <br> <i>Quel nucleare (buono) nel cuore di Pavia</i>"
+        id: speakers/#prata
         tag: conf
-      - hour: "12:30 - 14:00"
+      - hour: "12:45 - 14:15"
         where: "Mensa Cravino"
         descr: "Pranzo"
         tag: svago
-      - hour: "14:00 - 16:30"
-        where: "LENA"
-        descr: "Visita al LENA"
+      - hour: "14:15 - 16:30"
+        where: "L.E.N.A."
+        descr: "Visita al <b>L.E.N.A.</b>"
+        map: https://goo.gl/maps/6D3Q61L8LsA2
         tag: visit
+        id: facilities/#lena
       - hour: "16:30 - 17:00"
         where: "Dipartimento di Fisica"
         descr: "Coffee Break"
         tag: svago
       - hour: "17:00 - 19:00"
         where: "Dipartimento di Fisica"
-        descr: "Talk degli studenti"
+        descr: "Talk studenti"
         tag: studenti
       - hour:
         where:
         descr: "Serata libera (Mercoledì universitario)"
-        tag:
+        tag: sera
+        id: serate/#mercole
 
   - day: Gio 22
     date: "220318"
     day_ex: Giovedì 22 marzo (Milano)
-    short_descr: "Giornata a Milano"
+    short_descr: "Giornata a Milano: conferenze e visite"
     activity:
       - hour: "8:00"
         where:
         descr: "Partenza per Milano in pullman"
-        tag:
+        tag: svago
       - hour: "9:00 - 9:45"
         where: "Dipartimento di Fisica UniMi"
-        descr: "Conferenza NP magnetiche - Lascialfari"
+        descr: "Alessandro LASCIALFARI <br> <i>Titolo conferenza</i>"
         tag: conf
+        id: speakers/#lascialfari
       - hour: "9:45 - 10:30"
         where: "Dipartimento di Fisica UniMi"
-        descr: "Conferenza Radioprotezione - Groppi"
+        descr: "Flavia Maria GROPPI GARLANDINI <br> <i>Titolo conferenza</i>"
         tag: conf
+        id: speakers/#groppi
       - hour: "10:30 - 11:00"
         where: "Dipartimento di Fisica UniMi"
         descr: "Coffee Break"
         tag: svago
       - hour: "11:00 - 11:45"
         where: "Dipartimento di Fisica UniMi"
-        descr: "Conferenza Adroterapia 1 - Battistoni"
+        descr: "Giuseppe BATTISTONI <br> <i>Titolo conferenza</i>"
         tag: conf
+        id: speakers/#battistoni
       - hour: "11:45 - 12:30"
         where: "Dipartimento di Fisica UniMi"
-        descr: "Conferenza Dosimetria - Veronese"
+        descr: "Ivan VERONESE <br> <i>Titolo conferenza</i>"
         tag: conf
+        id: speakers/#veronese
       - hour: "12:30 - 14:00"
         where: "Mensa UniMi"
         descr: "Pranzo"
         tag: svago
       - hour: "15:00 - 18:00"
-        where: "Milano"
-        descr: "GRUPPO 1: Visita IFOM"
+        where: "Istituto FIRC di Oncologia Molecolare"
+        descr: "Visita <b>Istituto FIRC di Oncologia Molecolare (IFOM)</b> <br> [Gruppo 1]"
         tag: visit
+        id: facilities/#ifom
+        map: https://goo.gl/maps/THTmYTmDNGn
       - hour: "15:00 - 18:00"
-        where: "Milano"
-        descr: "GRUPPO 2: Visita Istituto Nazionale Tumori"
+        where: "Istituto Europeo di Oncologia"
+        descr: "Visita <b>Istituto Europeo di Oncologia (IEO)</b> <br> [Gruppo 2]"
         tag: visit
+        id: facilities/#ieo
+        map: https://goo.gl/maps/DQjG2MS3zsG2
       - hour: "15:00 - 18:00"
-        where: "Milano"
-        descr: "GRUPPO 3: Visita San Raffaele"
+        where: "IRCCS Ospedale San Raffaele"
+        descr: "Visita <b>IRCCS Ospedale San Raffaele</b> <br> [Gruppo 3]"
         tag: visit
+        map: https://goo.gl/maps/Kk17kXqKVP62
+        id: facilities/#sanraffaele
+      - hour: "15:00 - 18:00"
+        where: "ASST Grande Ospedale Metropolitano Niguarda"
+        descr: "Visita <b>ASST Grande Ospedale Metropolitano Niguarda</b> <br> [Gruppo 4]"
+        tag: visit
+        map: https://goo.gl/maps/1jdEgqcJtH82
+        id: facilities/#niguarda
+      - hour: "15:00 - 18:00"
+        where: "IRCCS Istituto Nazionale dei Tumori (INT)"
+        descr: "Visita <b>IRCCS Istituto Nazionale dei Tumori (INT)</b> <br> [Gruppo 5]"
+        tag: visit
+        map: https://goo.gl/maps/tQZpfpEg7nJ2
+        id: facilities/#int
       - hour: "19:30 - 23:30"
-        where: "Associazione Verbamanus"
+        where: "Sede Associazione Verbamanus"
         descr: "Cena con delitto"
         tag: sera
+        map: https://goo.gl/maps/spYCYF2s4ap
+        id: serate/#delitto
       - hour: "23:30"
         where:
         descr: "Ritorno a Pavia in pullman"
-        tag:
+        tag: svago
 
   - day: Ven 23
     date: "230318"
     day_ex: Venerdì 23 marzo (Pavia)
-    short_descr: "Visita al CNAO e conferenze a Pavia"
+    short_descr: "Visita al CNAO, conferenze e talk studenti"
     activity:
       - hour: "9:00 - 9:45"
         where: "Dipartimento di Fisica"
@@ -144,17 +186,20 @@ schedule:
         descr: "Pranzo"
         tag: svago
       - hour: "12:00 - 14:00"
-        where: "CNAO"
-        descr: "Visita CNAO"
+        where: "Centro Nazionale di Adroterapia Oncologica"
+        descr: "Visita <b>Centro Nazionale di Adroterapia Oncologica (CNAO)</b>"
         tag: visit
+        map: https://goo.gl/maps/1t1iNQmZ8ez
+        id: facilities/#cnao
       - hour: "14:30 - 15:00"
         where: "Dipartimento di Fisica"
         descr: "Coffee Break"
         tag: svago
-      - hour: "15:00 - 17:00"
+      - hour: "15:00 - 15:45"
         where: "Dipartimento di Fisica"
-        descr: "Poster session"
-        tag: studenti
+        descr: "Giorgio BAIOCCO <br> <i>Titolo conferenza</i>"
+        tag: conf
+        id: speakers/#baiocco
       - hour: "17:00 - 19:00"
         where: "Dipartimento di Fisica"
         descr: "Talk studenti"
@@ -162,33 +207,25 @@ schedule:
       - hour:
         where:
         descr: "Serata libera"
-        tag:
+        tag: sera
 
   - day: Sab 24
     date: "240318"
-    day_ex: Sabato 24 marzo (Milano)
-    short_descr: "Visite a Milano e chiusura lavori"
+    day_ex: Sabato 24 marzo (Pavia)
+    short_descr: "Poster session e chiusura lavori"
     activity:
-      - hour: "9:00 - 12:00"
-        where: "Milano"
-        descr: "GRUPPO 1: Visita IEO"
-        tag: visit
-      - hour: "9:00 - 12:00"
-        where: "Milano"
-        descr: "GRUPPO 2: Visita IFOM"
-        tag: visit
-      - hour: "9:00 - 12:00"
-        where: "Milano"
-        descr: "GRUPPO 3: Visita IFOM"
-        tag: visit
-      - hour: "12:00 - 14:00"
+      - hour: "9:00 - 13:00"
+        where: "da definire"
+        descr: "Poster session <br> Pillole di scienza"
+        tag: studenti
+      - hour: "13:00 - 14:00"
         where: "da definire"
         descr: "pranzo"
         tag: svago
       - hour: "14:00 - 15:00"
         where: "da definire"
         descr: "cerimonia di chiusura"
-        tag: firstlast
+        tag:
 
 few_info:
   info: ""
