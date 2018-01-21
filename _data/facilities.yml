@@ -1,8 +1,8 @@
-intro: "Qualche parola di intro"
+intro: "Le visite mirano a dare ai partecipanti la possibilità di visitare centri di ricerca di grande rilievo, che costituiscono eccellenze all’interno del panorama nazionale ed internazionale. Le apparecchiature impiegate in questi laboratori sono un notevole esempio di come la fisica possa essere applicata alla medicina e in particolare alla cura dei tumori."
 
 pavia:
   - img: img/lena.jpg
-    title: L.E.N.A
+    title: Laboratorio Energia Nucleare Applicata (L.E.N.A)
     descr: Il Laboratorio Energia Nucleare Applicata LENA è un “Centro Servizi Interdipartimentale” dell’Università degli Studi di Pavia che gestisce un reattore nucleare di ricerca, un ciclotrone per la produzione di radioisotopi e altre sorgenti di radiazioni ionizzanti mettendole a disposizione di ricercatori dell’Ateneo pavese e di altri utenti, pubblici e privati, per lo svolgimento di attività di ricerca applicata, di didattica e di servizio. Il Centro svolge direttamente attività di ricerca e di formazione ed eroga servizi ai privati incoraggiando il trasferimento dei risultati della ricerca nel campo delle tecnologie nucleari al sistema produttivo.
     site: http://lena.unipv.it
     id: lena
@@ -13,7 +13,7 @@ pavia:
       - slide: img/cnao_centro.jpg
       - slide: img/cnao_acc.jpg
       - slide: img/cnao_tratt.jpg
-    title: Fondazione CNAO
+    title: Centro Nazionale di Adroterapia Oncologica (CNAO)
     descr: "Il Centro Nazionale di Adroterapia Oncologica è nato con lo scopo di curare i tumori mediante l’impiego di protoni e di ioni carbonio, particelle appartenenti alla categoria degli adroni. La Fondazione CNAO è anche un Centro di Ricerca e Sviluppo le cui attività spaziano dalla ricerca clinica alla ricerca radiobiologica, a quella traslazionale con l’obiettivo di fornire un continuo miglioramento nella capacità di cura."
     site: https://www.fondazionecnao.it/
     id: cnao
