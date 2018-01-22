@@ -58,9 +58,9 @@ title: Registrazione all'evento
       {{ item.text }}
       {% if item.url contains "IAPS" %}
         <span class="badge white-text"><a {% if item.url contains "http://" %}
-           href="{{ item.url }}"
+           href="{{ item.url }}" target='_blank'
         {% else %}
-           href="{{ site.url }}/{{ item.url }}"
+           href="{{ site.url }}/{{ item.url }}" target='_blank'
         {% endif %}>{{ item.button }}</a></span>
       {% endif %}
     </li>

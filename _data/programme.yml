@@ -1,4 +1,4 @@
-info: "L'evento si terrà da martedì 20 marzo a sabato 24 marzo 2018 tra Pavia e Milano. La registrazione partecipanti comincerà nel primo pomeriggio di martedì 20 marzo presso il Dipartimento di Fisica di Pavia, seguita dalla cerimonia di apertura e da prime conferenze introduttive all'argomento: verranno forniti tutti gli elementi necessari per poter comprendere al meglio le conferenze e le visite dei giorni successivi. <br> Le giornate di martedì 20, mercoledì 21 e venerdì 23 si svolgeranno interamente a Pavia, mentre le giornate di giovedì 22 e sabato 24 si svolgeranno a Milano. Oltre alle conferenze e alle visite, sono organizzati anche alcuni momenti di svago, come l'Aperitivo con il quiz scientifico 'Botta di Coulomb' di martedì sera o la Cena con Delitto di giovedì sera. L'evento si concluderà nel primo pomeriggio di sabato 24 marzo a Milano, presso BOHBOHBOH.</p><p> Il programma completo si trova qua sotto."
+info: "L'evento si terrà da martedì 20 marzo a sabato 24 marzo 2018 tra Pavia e Milano. La registrazione partecipanti comincerà nel primo pomeriggio di martedì 20 marzo presso il Dipartimento di Fisica di Pavia, seguita dalla cerimonia di apertura e da prime conferenze introduttive all'argomento: verranno forniti tutti gli elementi necessari per poter comprendere al meglio le conferenze e le visite dei giorni successivi. La giornata di giovedì 22 marzo si svolgerà a Milano, le altre giornate invece si svolgeranno interamente a Pavia. Oltre alle conferenze e alle visite, sono organizzati anche alcuni momenti di svago, come l'Aperitivo con il quiz scientifico 'Botta di Coulomb' di martedì sera o la Cena con Delitto di giovedì sera. L'evento si concluderà nel primo pomeriggio, con la Poster Session, il pranzo e la cerimonia di chiusura presso BOHBOHBOH."
 
 last_update: 12/01/17
 
@@ -231,15 +231,15 @@ few_info:
   info: ""
   specs:
     - text: "Per registrarsi all'evento occorre essere membri AISF, regolarmente iscritti per l'anno accademico 2017/2018. L'iscrizione costa 5 euro per gli studenti di laurea triennale o magistrale, 10 euro per gli studenti di dottorato di ricerca. Ci si può iscrivere <a href='http://ai-sf.it/iscrizione/' target='_blank'>qui</a>. La quota di iscrizione all'AISF include la membership IAPS (International Association of Physics Students) di cui AISF è National Committee per l'Italia."
-    - text: "Sono disponibili in totale 50 posti:"
+    - text: "Sono disponibili in totale 54 posti:"
       subpoints:
         - text: "<b>40</b> con alloggio in Pavia, con quota di <b>100</b> euro;"
-        - text: "<b>10</b> senza alloggio, con quota di <b>40</b> euro."
+        - text: "<b>14</b> senza alloggio, con quota di <b>40</b> euro."
     - text: "Entrambe le quote di partecipazione comprendono:"
       subpoints:
         - text: "tutti i pranzi e i coffee break;"
         - text: "aperitivo di martedì sera e cena di giovedì sera;"
-        - text: "trasporti per le trasferte a Milano;"
+        - text: "trasporto in pullman per la trasferta a Milano di giovedì;"
         - text: "sacchetto con i gadget dell'evento."
     - text:  "La quota di partecipazione con alloggio comprende inoltre il soggiorno presso uno dei collegi della rete EDISU di Pavia per le 4 notti dell'evento."
     - text: "Entrambe le quote di partecipazione <b>non comprendono</b>:"

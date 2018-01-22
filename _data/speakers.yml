@@ -1,7 +1,34 @@
-- nome: "Prof. Alessandro Lascialfari"
-  id: lascialfari
+- nome: "Prof. Elio Giroletti"
+  id: giroletti
+  uni: "Università degli Studi di Pavia"
+  img: "/img/speakers/giroletti.jpg"
+  title: "Titolo dell'incontro conferenza"
+  bio: short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio
+  abstract: breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract
+  link:
+
+- nome: "Prof.ssa Francesca Ballarini"
+  id: ballarini
+  uni: "Università degli Studi di Pavia"
+  img: "/img/speakers/ballarini.jpg"
+  title: "Titolo dell'incontro conferenza"
+  bio: short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio
+  abstract: breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract
+  link:
+
+- nome: "Prof. Alberto Torresin"
+  id: torresin
   uni: "Università degli Studi di Milano"
-  img: "/img/speakers/lascialfari.jpg"
+  img: "/img/speakers/torresin.jpg"
+  title: "Titolo dell'incontro conferenza"
+  bio: short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio
+  abstract: breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract
+  link:
+
+- nome: "Dott.ssa Fulvia Palesi"
+  id: palesi
+  uni: "Università degli Studi di Pavia"
+  img: "/img/speakers/palesi.png"
   title: "Titolo dell'incontro conferenza"
   bio: short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio
   abstract: breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract
@@ -16,11 +43,19 @@
   abstract: breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract
   link:
 
+- nome: "Dott. Michele Prata"
+  id: prata
+  bio: Laureato in Fisica nel 1999 presso l’Università degli Studi di Pavia con un lavoro di tesi di strumentazione nell’ambito dell’esperimento ATLAS. Nel 2003 consegue il Dottorato di Ricerca in Fisica presso l’Università degli Studi di Pavia, con curriculum di Fisica Nucleare e Subnucleare. Dal 2003 al 2005 Assegnista di Ricerca INFN nell’ambito dell’esperimento ICARUS. Nel 2006 entra nello staff del LENA dove attualmente ricopre l’incarico di Direttore Tecnico di Impianto Nucleare di Ricerca e Responsabile del Servizio di Fisica Sanitaria. (<a href='https://www.researchgate.net/profile/Michele_Prata' target='_blank'>ResearchGate</a>)
+  uni: L.E.N.A. - Laboratorio Energia Nucleare Applicata - Università degli Studi di Pavia
+  img: "/img/speakers/prata.jpg"
+  title: "Quel nucleare (buono) nel cuore di Pavia"
+  abstract: Principi di funzionamento di un reattore nucleare e principali attività di ricerca al reattore nucleare TRIGA Mark II del LENA.
+  link:
 
-- nome: "Prof. Giuseppe Battistoni"
-  id: battistoni
+- nome: "Prof. Alessandro Lascialfari"
+  id: lascialfari
   uni: "Università degli Studi di Milano"
-  img: "/img/speakers/battistoni.jpg"
+  img: "/img/speakers/lascialfari.jpg"
   title: "Titolo dell'incontro conferenza"
   bio: short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio
   abstract: breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract
@@ -35,10 +70,10 @@
   abstract: breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract
   link:
 
-- nome: "Dott.ssa Fulvia Palesi"
-  id: palesi
-  uni: "Università degli Studi di Pavia"
-  img: "/img/speakers/palesi.png"
+- nome: "Prof. Giuseppe Battistoni"
+  id: battistoni
+  uni: "Università degli Studi di Milano"
+  img: "/img/speakers/battistoni.jpg"
   title: "Titolo dell'incontro conferenza"
   bio: short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio
   abstract: breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract
@@ -60,40 +95,4 @@
   title: "Titolo dell'incontro conferenza"
   bio: short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio
   abstract: breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract
-  link:
-
-- nome: "Prof.ssa Francesca Ballarini"
-  id: ballarini
-  uni: "Università degli Studi di Pavia"
-  img: "/img/speakers/ballarini.jpg"
-  title: "Titolo dell'incontro conferenza"
-  bio: short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio
-  abstract: breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract
-  link:
-
-- nome: "Prof. Elio Giroletti"
-  id: giroletti
-  uni: "Università degli Studi di Pavia"
-  img: "/img/speakers/giroletti.jpg"
-  title: "Titolo dell'incontro conferenza"
-  bio: short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio
-  abstract: breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract
-  link:
-
-- nome: "Prof. Alberto Torresin"
-  id: torresin
-  uni: "Università degli Studi di Milano"
-  img: "/img/speakers/torresin.jpg"
-  title: "Titolo dell'incontro conferenza"
-  bio: short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio
-  abstract: breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract
-  link:
-
-- nome: "Dott. Michele Prata"
-  id: prata
-  bio: Laureato in Fisica nel 1999 presso l’Università degli Studi di Pavia con un lavoro di tesi di strumentazione nell’ambito dell’esperimento ATLAS (A Toroidal LHC ApparatuS). Nel 2003 consegue il Dottorato di Ricerca in Fisica, sempre presso l’Università degli Studi di Pavia, con curriculum di Fisica Nucleare e Subnucleare, durante il quale si è occupato del controllo di qualità delle camere MDT dello spettrometro muonico di ATLAS. Parallelamente all’attività di laboratorio ha contribuito allo studio della fenomenologia di modelli con dimensioni spaziali supplementari. Dal 2003 al 2005 Assegnista di Ricerca INFN nell’ambito dell’esperimento ICARUS (Imaging Cosmic And Rare Underground Signals) in cui segue la fase di caratterizzazione del rivelatore TPC, la risposta dei fotomoltiplicatori in ambiente criogenico e la preparazione per l’installazione presso i Laboratori Nazionali del Gran Sasso. Nel 2006 entra nello staff del LENA (Laboratorio Energia Nucleare Applicata) come Operatore del Ciclotrone. Nel 2009 consegue la patente di Operatore del reattore nucleare di ricerca TRIGA Mk II. Nel 2013 consegue la patente di Supervisore e nel 2014 l’Attestato alla Direzione Tecnica di Impianti Nucleari di Ricerca tipo TRIGA Mk II.	Attualmente ricopre l’incarico di Direttore Tecnico di Impianto e Responsabile del Servizio di Fisica Sanitaria del LENA. (<a href='https://www.researchgate.net/profile/Michele_Prata' target='_blank'>ResearchGate</a>)
-  uni: "L.E.N.A."
-  img: "/img/speakers/prata.jpg"
-  title: "Quel nucleare (buono) nel cuore di Pavia"
-  abstract:
   link:

@@ -1,20 +1,12 @@
-info: "Le registrazioni sono aperte da lunedì 22 gennaio a mezzogiorno fino a venerdì 9 febbraio a mezzogiorno.</p><p>
-Please read the terms and conditions below. Please note that, upon registration, you will be asked for personal details (such as name, surname, date of birth, university affiliation, etc.
-Prima di registrarsi, per favore leggere"
-
 posters?: false
 
-
-
 deadlines:
-  info: "Le registrazioni sono aperte da lunedì 22 gennaio a mezzogiorno fino a venerdì 9 febbraio a mezzogiorno."
+  info: "Le registrazioni sono aperte da giovedì 25 gennaio a mezzogiorno fino a giovedì 8 febbraio a mezzogiorno."
   specs:
-    - text: "Sono disponibili 50 posti in totale per l'evento: 40 con alloggio in Pavia (quota 100 euro) e 10 senza alloggio (quota 40 euro). Per informazioni ulteriori vedere la pagina <a href='../programme'>Programma</a>, nella quale è indicato in dettaglio cosa è compreso nelle quote."
-    - text: "Durante la fase di registrazione, verranno richiesti alcuni dati personali, oltre al caricamento di un documento di identità: si prega pertanto di <b>leggere attentamente</b> i termini e le condizioni di iscrizione riportati qui sotto (in lingua inglese)."
-    - text: "In particolare il documento d'identità in fase di registrazione è richiesto per motivi legali per la visita al L.E.N.A, il quale richiede con largo anticipo la lista dei (possibili) partecipanti."
-    - text: "Nel giro di qualche giorno dopo il termine del periodo di registrazione, i partecipanti selezionati saranno avvisati tramite l'indirizzo email indicato in fase di registrazione. Si prega a tal proposito di controllare quotidianamente la casella di posta."
-    - text: "Sarà quindi richiesto il pagamento della quota di iscrizione entro e non oltre <b>7 giorni</b> dalla ricezione della mail, pena l'esclusione dalla partecipazione all'evento."
-    - text: "Una volta definiti i partecipanti all'evento sarà effettuato un sondaggio per formare i gruppi per le visite."
+    - text: "Sono disponibili <b>54 posti</b> in totale per l'evento: 40 con alloggio in Pavia (quota 100 euro) e 14 senza alloggio (quota 40 euro). Di questi 54 posti, 7 posti sono riservati agli iscritti al Comitato locale di Milano e 7 posti sono riservati agli iscritti al Comitato locale di Pavia. In caso di numero superiore di richieste senza alloggio rispetto alle 14 previste, verrà quindi data precedenza agli studenti provenienti da Milano e Pavia che abbiano richiesto la quota senza alloggio. Per informazioni ulteriori vedere la pagina <a href='../programme'>Programma</a>, nella quale è indicato in dettaglio cosa è compreso nelle quote."
+    - text: "Durante la fase di registrazione, verranno richiesti alcuni dati personali, oltre al caricamento di un documento di identità: si prega pertanto di <b>leggere attentamente</b> i termini e le condizioni di iscrizione riportati qui sotto (in lingua inglese). In particolare il documento d'identità in fase di registrazione è richiesto per motivi legali per la visita al L.E.N.A, il quale richiede con largo anticipo la lista dei (possibili) partecipanti."
+    - text: "Nel giro di qualche giorno dopo il termine del periodo di registrazione, i partecipanti selezionati saranno avvisati tramite l'indirizzo email indicato in fase di registrazione. Si prega a tal proposito di controllare quotidianamente la casella di posta. Sarà quindi richiesto il pagamento della quota di iscrizione entro e non oltre <b>7 giorni</b> dalla ricezione della mail, pena l'esclusione dalla partecipazione all'evento."
+    - text: "Una volta definiti i partecipanti all'evento sarà effettuato un sondaggio per formare i gruppi per le visite e verrà pianificato il calendario delle sezioni Talk Studenti in base ai contributi pervenuti."
   lastinfo: "Per procedere con la registrazione, cliccare sul seguente link. "
 
 terms:
