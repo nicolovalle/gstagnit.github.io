@@ -44,7 +44,7 @@ schedule:
     activity:
       - hour: "9:15 - 10:00"
         where: "Dipartimento di Fisica"
-        descr: "Alberto TORRESIN <br> <i>Titolo intervento</i>"
+        descr: "Speaker <br> <i>Titolo intervento</i>"
         id: speakers/#torresin
         tag: conf
       - hour: "10:00 - 10:45"

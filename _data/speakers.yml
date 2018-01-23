@@ -16,15 +16,6 @@
   abstract: breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract
   link:
 
-- nome: "Prof. Alberto Torresin"
-  id: torresin
-  uni: "Università degli Studi di Milano"
-  img: "/img/speakers/torresin.jpg"
-  title: "Titolo dell'incontro conferenza"
-  bio: short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio
-  abstract: breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract
-  link:
-
 - nome: "Dott.ssa Fulvia Palesi"
   id: palesi
   uni: "Università degli Studi di Pavia"
