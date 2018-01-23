@@ -29,20 +29,20 @@ milano:
 
   - img: img/IEO.png
     title: Istituto Europeo di Oncologia (IEO)
-    descr: prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova
+    descr: L'Istituto Europeo di Oncologia (IEO), voluto da Umberto Veronesi, è stato inaugurato nel maggio 1994. Nel 1996 ha assunto il ruolo di Istituto di Ricovero e Cura a Carattere Scientifico (IRCCS). Si tratta di un 'comprehensive cancer centre' a finalità 'non profit' ed è impegnato in tre settori (Clinica, Ricerca e Formazione). Alcuni dei valori a cui si ispira l'Istituto sono l'approccio multidisciplinare agli aspetti clinici e lo sviluppo della ricerca sperimentale con rapido trasferimento ai pazienti.
     site: https://www.ieo.it/
     id: https://goo.gl/maps/DQjG2MS3zsG2
 
   - img: img/hsr.jpg
     title: IRCCS Ospedale San Raffaele
-    descr: prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova
+    descr: L'Ospedale San Raffaele è stato inaugurato nel 1971 e riconosciuto Istituto di Ricovero e Cura a Carattere Scientifico (IRCCS) nel 1972. Si tratta di una struttura clinico-scientifica- universitaria di rilievo internazionale ed è un Centro di Emergenza ad Alta Specialità (EAS). Nell’ambito della Ricerca, dal 2001 l’IRCCS Ospedale San Raffaele è riconosciuto dal Ministero della Salute come Istituto di Ricovero e Cura a Carattere Scientifico per la specialità di Medicina Molecolare.
     site: http://research.hsr.it/en/index.html
     id: sanraffaele
     map: https://goo.gl/maps/Kk17kXqKVP62
 
   - img: img/niguarda.png
     title: ASST Grande Ospedale Metropolitano Niguarda
-    descr: prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova
+    descr: L'ospedale Niguarda è nato del 1939. Attualmente è sede di tutte le specialità cliniche e chirurgiche sia per l’adulto sia per il bambino. Si tratta di uno dei maggiori Centri di Trapianti in Italia ed è centro di riferimento nazionale per le malattie rare. Ha una Banca di Tessuti e un Centro Grandi Ustionati; è sede del centro antiveleni e del quartier generale del 112 di Milano e provincia. Al Niguarda viene svolta attività di ricerca in collaborazione con Università e centri di ricerca internazionali.
     site: http://www.ospedaleniguarda.it/
     id: niguarda
     map: https://goo.gl/maps/1jdEgqcJtH82
