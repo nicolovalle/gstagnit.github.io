@@ -36,14 +36,14 @@ milano:
   - img: img/hsr.jpg
     title: IRCCS Ospedale San Raffaele
     descr: prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova
-    website: http://research.hsr.it/en/index.html
+    site: http://research.hsr.it/en/index.html
     id: sanraffaele
     map: https://goo.gl/maps/Kk17kXqKVP62
 
   - img: img/niguarda.png
     title: ASST Grande Ospedale Metropolitano Niguarda
     descr: prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova prova
-    website: http://www.ospedaleniguarda.it/
+    site: http://www.ospedaleniguarda.it/
     id: niguarda
     map: https://goo.gl/maps/1jdEgqcJtH82
 
