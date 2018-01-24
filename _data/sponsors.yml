@@ -1,11 +1,20 @@
-img: img/sponsor2.png
-mail: emily.damiani@ai-sf.it
+- title: Sponsor
+  subitems:
+    - text: Consorzio Interuniversitario Nazionale per la Scienza e Tecnologia dei Materiali (INSTM)
+      img: INSTM.jpg
+      link: http://www.instm.it/
+    - text: Università degli Studi di Pavia - Dipartimento di Fisica
+      img:
+      link: http://fisica.unipv.it/
+    - text: Istituto FIRC di Oncologia Molecolare (IFOM)
+      img:
+      link: https://www.ifom.eu/it/
+    - text:  101 Caffè - Cialde e capsule caffè compatibili
+      img:
+      link: https://www.101caffe.it/
 
-thanks: "We owe huge thanks to both the IQOQI and the IPC, that gave us an essential financial support without which organizing this amazing event would have been impossible. 
-Furthermore these two institutions and Trento University Physics Department have been more than delightful helping us with any need we came up and allowing AISF members to visit their facilities, sharing the knowledge and science that they have gathered"
-
-
-slideshow:
-  - img: img/slide/lampo.jpg
-  - img: img/slide/tipo.jpg
-  - img: img/slide/cibo.jpg
+- title: Patrocini
+  subitems:
+    - text: EDISU Pavia - Ente per il diritto allo studio universitario
+      img:
+      link: http://www.edisu.pv.it/

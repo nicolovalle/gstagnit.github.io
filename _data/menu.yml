@@ -8,5 +8,7 @@
   url: programme
 - text: Registrazione
   url: registration
+- text: Sponsor
+  url: sponsors
 - text: AISF
   url: http://www.ai-sf.it
