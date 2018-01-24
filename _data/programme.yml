@@ -1,4 +1,4 @@
-info: "L'evento si terrà da martedì 20 marzo a sabato 24 marzo 2018 tra Pavia e Milano. La registrazione partecipanti comincerà nel primo pomeriggio di martedì 20 marzo presso il Dipartimento di Fisica di Pavia, seguita dalla cerimonia di apertura e da prime conferenze introduttive all'argomento: verranno forniti tutti gli elementi necessari per poter comprendere al meglio le conferenze e le visite dei giorni successivi. La giornata di giovedì 22 marzo si svolgerà a Milano, le altre giornate invece si svolgeranno interamente a Pavia. Oltre alle conferenze e alle visite, sono organizzati anche alcuni momenti di svago, come l'Aperitivo con il quiz scientifico 'Botta di Coulomb' di martedì sera o la Cena con Delitto di giovedì sera. L'evento si concluderà nel primo pomeriggio, con la Poster Session, il pranzo e la cerimonia di chiusura presso BOHBOHBOH."
+info: "L'evento si terrà da martedì 20 marzo a sabato 24 marzo 2018 tra Pavia e Milano. La registrazione partecipanti comincerà nel primo pomeriggio di martedì 20 marzo presso il Dipartimento di Fisica di Pavia, seguita dalla cerimonia di apertura e da prime conferenze introduttive all'argomento: verranno forniti tutti gli elementi necessari per poter comprendere al meglio le conferenze e le visite dei giorni successivi. La giornata di giovedì 22 marzo si svolgerà a Milano, le altre giornate invece si svolgeranno interamente a Pavia. Oltre alle conferenze e alle visite, sono organizzati anche alcuni momenti di svago, come l'Aperitivo con il quiz scientifico 'Botta di Coulomb' di martedì sera o la Cena con Delitto di giovedì sera. L'evento si concluderà nel primo pomeriggio di sabato a Pavia con la cerimonia di chiusura."
 
 last_update: 12/01/17
 
@@ -67,7 +67,7 @@ schedule:
         id: speakers/#prata
         tag: conf
       - hour: "12:45 - 14:15"
-        where: "Mensa Cravino"
+        where: "Mensa"
         descr: "Pranzo"
         tag: svago
       - hour: "14:15 - 16:30"
@@ -124,7 +124,7 @@ schedule:
         tag: conf
         id: speakers/#veronese
       - hour: "12:30 - 14:00"
-        where: "Mensa UniMi"
+        where: "Mensa"
         descr: "Pranzo"
         tag: svago
       - hour: "15:00 - 18:00"
@@ -182,7 +182,7 @@ schedule:
         descr: "Conferenza Adroterapia 2 - Battistoni"
         tag: conf
       - hour: "11:00 - 12:00"
-        where: "Mensa Cravino"
+        where: "Mensa"
         descr: "Pranzo"
         tag: svago
       - hour: "12:00 - 14:00"
@@ -220,11 +220,11 @@ schedule:
         tag: studenti
       - hour: "13:00 - 14:00"
         where: "da definire"
-        descr: "pranzo"
+        descr: "Pranzo"
         tag: svago
       - hour: "14:00 - 15:00"
         where: "da definire"
-        descr: "cerimonia di chiusura"
+        descr: "Cerimonia di chiusura"
         tag:
 
 few_info:
@@ -241,10 +241,10 @@ few_info:
         - text: "aperitivo di martedì sera e cena di giovedì sera;"
         - text: "trasporto in pullman per la trasferta a Milano di giovedì;"
         - text: "sacchetto con i gadget dell'evento."
-    - text:  "La quota di partecipazione con alloggio comprende inoltre il soggiorno presso uno dei collegi della rete EDISU di Pavia per le 4 notti dell'evento."
+    - text:  "La quota di partecipazione con alloggio comprende inoltre il soggiorno presso uno dei collegi della rete EDISU di Pavia per le 4 notti dell'evento. Maggiori dettagli verranno forniti nelle settimane prima dell'evento."
     - text: "Entrambe le quote di partecipazione <b>non comprendono</b>:"
       subpoints:
-        - text: "trasporto verso Pavia all'andata e trasporto da Milano al ritorno;"
+        - text: "spese di viaggio per raggiungere la conferenza;"
         - text: "assicurazione;"
         - text: "trasporti all'interno di Pavia (il Dipartimento dista dal centro città circa 20 minuti a piedi);"
         - text: "cena di mercoledì e venerdi."

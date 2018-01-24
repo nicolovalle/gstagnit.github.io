@@ -6,7 +6,7 @@ contact:
     mail: esecutivo@ai-sf.it
   - name: AISF Pavia
     mail: federico.sabattoli@ai-sf.it
-  - name: AISF Milano
+  - name: AISF UNIMI
     mail: emilio.villa@ai-sf.it
 
 connect:
@@ -16,7 +16,7 @@ connect:
   - name: AISF Pavia
     url: https://www.facebook.com/aisfpavia/
     img_name: logo_AISF_pavia.png
-  - name: AISF Milano
+  - name: AISF UNIMI
     url: https://www.facebook.com/aisfunimi/
     img_name: logo_AISF_milano.jpg
 
