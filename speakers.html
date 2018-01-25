@@ -23,8 +23,10 @@ Le conferenze si svolgeranno sia a Milano sia a Pavia. Saranno tenute da docenti
       <br>
     </p>
 		<br>
+		{% if item.title != nil %}
     <p style="color:{{site.data.generic.color1}}">Titolo presentazione: <b>{{item.title}}</b></p>
 		<p>{{ item.abstract }}</p>
+		{% endif %}
     <!-- <div class="secondary-content">
 			<a href="{{site.url}}/programme" title="Vedi evento nel programma">
 				<i class="fa fa-lg fa-calendar"></i>

@@ -18,11 +18,11 @@
 
 - nome: "Dott.ssa Fulvia Palesi"
   id: palesi
-  uni: "Università degli Studi di Pavia"
-  img: "/img/speakers/palesi.png"
-  title: "Titolo dell'incontro conferenza"
-  bio: short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio
-  abstract: breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract
+  uni: "IRCCS Fondazione Mondino - Università degli Studi di Pavia"
+  img: "/img/speakers/palesi.jpg"
+  #title: "Titolo dell'incontro conferenza"
+  bio: Laureata in Fisica Biosanitaria nel 2008 presso l'Università degli Studi di Pavia con un lavoro di tesi svolto presso l'IRCCS Fondazione Mondino nell'ambito dell'imaging di risonanza magnetica applicata a pazienti affetti da HIV. Nel 2012 consegue il Dottorato di Ricerca in Fisica presso l'Università degli Studi di Pavia, con curriculum in Fisica Applicata. Dal 2012 al 2017 Assegnista di Ricerca nell’ambito dell’imaging di risonanza magnetica in patologie neurologiche. Nel 2017 entra nello staff dell'IRCCS Mondino in cui attualmente ricopre l’incarico di ricercatrice.
+  #abstract: breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract
   link:
 
 - nome: "Dott.ssa Silva Bortolussi"
@@ -47,9 +47,9 @@
   id: lascialfari
   uni: "Università degli Studi di Milano"
   img: "/img/speakers/lascialfari.jpg"
-  title: "Titolo dell'incontro conferenza"
-  bio: short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio short bio
-  abstract: breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract
+  #title: "Titolo dell'incontro conferenza"
+  bio: Alessandro Lascialfari è professore ordinario presso l'Università degli Studi di Milano. Tiene corsi a studenti di laurea magistrale e di dottorato presso i Corsi di Laurea in Fisica e Farmacia a Milano e a Pavia. E' autore o coautore di più di 200 articoli e nella sua attività di ricerca ha sfruttato tecniche di NMR, MuSR, SQUID, calorimetria, MRI, AFM e ipertermia magnetica. Ha ottenuto importanti risultati nello studio delle proprietà magnetiche e delle dinamiche di spin in superconduttori HTSC e in sistemi magnetici nanoscopici e con bassa dimensionalità.
+  #abstract: breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract
   link:
 
 - nome: "Prof.ssa Flavia Maria Groppi Garlandini"

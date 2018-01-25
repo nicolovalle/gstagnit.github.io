@@ -7,13 +7,13 @@ title: Sponsor
 <h3>{{ sezione.title}}</h3>
 <div class="row">
   {% for item in sezione.subitems %}
-  <div class="col s12 m4">
+  <div class="col m6">
     <div class="card">
       <div class="card-image" >
         <img src="{{site.url}}/img/sponsor/{{item.img}}">
       </div>
       <div class="card-content">
-        <p style='text-align:justify; font-size: large'>{{item.text}}</p>
+        <p style='font-size: large'>{{item.text}}</p>
       </div>
       <div class="card-action">
         <a href="{{item.link}}" target="_blank">WEBSITE</a>

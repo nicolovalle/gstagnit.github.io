@@ -1,17 +1,20 @@
 - title: Sponsor
   subitems:
+    - text: Istituto FIRC di Oncologia Molecolare (IFOM)
+      img: IFOM.png
+      link: https://www.ifom.eu/it/
     - text: Consorzio Interuniversitario Nazionale per la Scienza e Tecnologia dei Materiali (INSTM)
       img: INSTM.jpg
       link: http://www.instm.it/
     - text: Università degli Studi di Pavia - Dipartimento di Fisica
       img:
       link: http://fisica.unipv.it/
-    - text: Istituto FIRC di Oncologia Molecolare (IFOM)
-      img:
-      link: https://www.ifom.eu/it/
     - text:  101 Caffè - Cialde e capsule caffè compatibili
       img:
       link: https://www.101caffe.it/
+    - text: GNR - Analytical Instruments Group
+      img:
+      link: http://www.gnr.it/
 
 - title: Patrocini
   subitems:
